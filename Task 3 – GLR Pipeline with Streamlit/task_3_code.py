@@ -68,7 +68,7 @@ Inspection Report:
 
     API_URL = "https://openrouter.ai/api/v1/chat/completions"
     headers = {
-        "Authorization": "Bearer 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",
+        "Authorization": "Bearer sk-or-v1-*****",
         "Content-Type": "application/json"
     }
     data = {
